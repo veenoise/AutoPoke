@@ -1,6 +1,5 @@
 setInterval(e => {
-	location.reload();
-
+	console.log("Success");
 	var x = document.getElementsByClassName("x1lliihq x6ikm8r x10wlt62 x1n2onr6 xlyipyv xuxw1ft");
 
 	for (let i = 0; i < x.length; i++) {
@@ -10,4 +9,4 @@ setInterval(e => {
 	}
 }, 3000);
 
-
+location.reload();
