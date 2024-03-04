@@ -7,6 +7,7 @@ setInterval(e => {
 			x[i].click();
 		}
 	}
+
+	location.reload();
 }, 3000);
 
-location.reload();

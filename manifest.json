@@ -15,7 +15,7 @@
     {
       "js": ["scripts/content.js"],
       "matches": [
-		  "https://www.facebook.com/pokes?notif_id=*"
+		  "https://www.facebook.com/pokes*"
       ]
     }
   ]
