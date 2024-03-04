@@ -9,5 +9,5 @@ setInterval(e => {
 	}
 
 	location.reload();
-}, 3000);
+}, 5000);
 
